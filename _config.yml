@@ -1,0 +1,23 @@
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: dark
+
+locale: "en-US"
+
+title: "Neuton Foo"
+title_separator: "|"
+
+name: "Neuton Foo"
+repository: "neutonfoo/neutonfoo.github.io"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-107705769-4"
+    anonymize_ip: false # default
+
+author:
+  name: "Neuton Foo"
+  email: "nfoo@usc.edu"
+  github: "neutonfoo"
+  linkedin: "neutonfoo"
