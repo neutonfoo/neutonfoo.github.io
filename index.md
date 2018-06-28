@@ -1,6 +1,13 @@
 ---
 title:
 layout: splash
+customjs:
+ - assets/js/t.min.js
+ - assets/js/landingPage.js
 ---
 
-[[ Landing Page ]]
+<h1>Welcome to my personal GitHub Page.</h1>
+
+{% for js in page.customjs %}
+<script async type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
