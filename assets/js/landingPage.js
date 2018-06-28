@@ -1,5 +1,6 @@
 $(document).ready(function() {
-	setTimeout(function(){
-		$('h1').t();
-	}, 1);
+	// setTimeout(function() {
+	// 	$('h1').typeTo("New Text");
+	//
+	// }, 1000)
 });

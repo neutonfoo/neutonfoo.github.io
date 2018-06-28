@@ -1,6 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 
-minimal_mistakes_skin: dark
+# To change skin, go into assets/css/main.scss
 
 locale: "en-US"
 
