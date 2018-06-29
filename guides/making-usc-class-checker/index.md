@@ -1,9 +1,10 @@
 ---
 title: Making USC Class Checker
 layout: single
----
 
-## #WIP
+sidebar:
+  nav: making-usc-class-checker-nav
+---
 
 ## Repository Page
 

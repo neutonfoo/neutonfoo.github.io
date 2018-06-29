@@ -1,9 +1,11 @@
 ---
 title: Quick Python from C++
 layout: single
+sidebar:
+  nav: quick-python-from-cpp-nav
 ---
 
-## #WIP
+## WIP
 
 ## Python Files
 
@@ -16,7 +18,8 @@ layout: single
 	* Spaces or tabs are used to create code blocks in lieu of curly braces `{ }`.
 	* Cannot mix spaces or tabs, must pick one.
 * Semicolons `;` optional.
-* Don't need to compile code.
+* Don't need to compile code like in `C++`;
+* Look into [Anaconda](https://www.anaconda.com/download/) if using Python for data science.
 
 ## Printing
 
@@ -61,7 +64,7 @@ print(a[3]) # m
 print(a[-1]) # g
 ```
 
-* Cannot print mixed data types
+* Cannot print mixed data types.
 
 ```python
 x = 100
