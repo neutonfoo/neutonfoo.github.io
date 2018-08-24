@@ -1,18 +1,16 @@
 ---
-title: Quick Python from C++
+title: Quick Python - Basics
 layout: single
 sidebar:
-  nav: quick-python-from-cpp-nav
+  nav: quick-python-basics-nav
 ---
 
-## WIP
-
-## Python Files
+## Python
 
 * Two main versions of Python - `2.7` and `3.x`.
-	* It is recommended to use `3.x`, but `2.7` is still heavily used.
+	* It is recommended to use `3.x`, but `2.7` is still heavily used and supported.
 	* Can check Python version using `python --version` or `python3 --version`.
-* End in `*.py`.
+* Python files have the `*.py` extension.
 * Run Python programs using `python file.py` or `python3 file.py` in the Terminal.
 * Indentation matters.
 	* Spaces or tabs are used to create code blocks in lieu of curly braces `{ }`.
@@ -46,6 +44,8 @@ print("Line")
 ## Variables
 
 * No need to declare type (type is inferred).
+* Most common variable types: `int`, `float`, `string`
+	* Python also supports `complex` numbers: `c = 1 + 2j`
 
 ```python
 x = 100
@@ -55,6 +55,10 @@ print(type(y)) # <class 'float'>
 z = x + y
 print(z) # 101.1
 print(type(z)) # <class 'float'>
+
+c = 3 + 5j # Python supports complex numbers
+print(c * 2) # (6+10j)
+print(type(z)) # <class 'complex'>
 
 a = "I am a string" # Can also use single quotes ', no difference.
 print(type(a)) # <class 'str'>
@@ -77,11 +81,34 @@ print("x is ", end = "") # Also works
 print(x)
 ```
 
-## Conditionals
+## Casting
+
+* `int()`, `float()` and `str()`.
+
+```python
+x = int(1.9) # x = 1
+y = int('5.2') # y = 5
+z = float('5.2') # z = 5.2
+
+a = str(2)    # y = '2'
+b = str(3.0)  # z = '3.0'
+```
+
+## Arithmetic and Assignment Operators
+
+* Generally the same as the ones in C++.
+	* `+`, `-`, `*`, `/`, `%`
+	* `+=`, `-=`, `*=`, `/=`, `%=`
+* Exponential is `**`: `2**3` = `pow(2,3)`
+* Floor division is `//`: `3//2` = `floor(3/2)`
+
+
+## Logical Operators and Conditionals
 
 * Brackets are optional.
 * Code block based on colons `:` and indentation. (No curly braces.)
 * `||`  to  `or`.
+* `!(__condition__)` to `not __condition__`
 * `&&`  to  `and`.
 * `else if`  to  `elif`.
 * `true`  to  `True`.
@@ -138,13 +165,25 @@ if a == 1 or b == 1 or c == 1:
 	print('a, b or c equals 1')
 ```
 
-## Standard Python File
+## For Loops
+
+* `for` loops in Python work differently from `for` loops in other languages.
+* Works more like an iterator.
+	* Similar to a `foreach` loop.
+
+```python
+for i in range(0, 5): # Loops through 0 to 4
+	print(i)
+```
+
+## Python Files
 
 * Will usually see the `if __name__ == "__main__":` convention.
 	* If this file is called from the Terminal, this condition will be `True`.
 	* `python3 program.py`.
+* Main code will be in the `main()` function.
 
-**program.py**
+`program.py`
 
 ```python
 def main():
@@ -154,7 +193,7 @@ if __name__ == "__main__": # If this file is run from the terminal
 	main()
 ```
 
-## Python Functions
+## Functions
 
 * No return type needed.
 * Using `if __name__ == "__main__":` eliminates need for prototyping.
@@ -164,28 +203,8 @@ def main():
 	print(power(3, 4))
 
 def power(x, y):
-	return x**y # = pow(x, y)
+	return x**y
 
 if __name__ == "__main__":
 	main()
-```
-
-## Loops
-
-```python
-def main():
-	days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-	# No real "arrays" in Python, usually mean list
-
-	for day in days:
-		print(day)
-
-	for i in range(len(days)):
-		print(days[i])
-
-	for i in range(0, 5):
-		print(i)
-
-if __name__ == "__main__":
-	main();
 ```

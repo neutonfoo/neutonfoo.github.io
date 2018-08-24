@@ -6,6 +6,36 @@ main:
   - title: "Contact"
     url: /contact/
 
+quick-python-basics-nav:
+  - title: "Jump to"
+    children:
+      - title: "Python"
+        url: "guides/quick-python-basics#python"
+      - title: "Printing"
+        url: "guides/quick-python-basics#printing"
+      - title: "Variables"
+        url: "guides/quick-python-basics#variables"
+      - title: "Casting"
+        url: "guides/quick-python-basics#casting"
+      - title: "Arithmetic and Assignment Operators"
+        url: "guides/quick-python-basics#arithmetic-and-assignment-operators"
+      - title: "Logical Operators and Conditionals"
+        url: "guides/quick-python-basics#logical-operators-and-conditionals"
+      - title: "For Loops"
+        url: "guides/quick-python-basics#for-loops"
+      - title: "Python Files"
+        url: "guides/quick-python-basics#python-files"
+      - title: "Functions"
+        url: "guides/quick-python-basics#functions"
+
+quick-python-collections-nav:
+  - title: "Jump to"
+    children:
+      - title: "Types of Collections"
+        url: "guides/quick-python-collections#types-of-collections"
+      - title: "List"
+        url: "guides/quick-python-collections#list"
+
 making-usc-class-checker-nav:
   - title: "Jump to"
     children:
@@ -41,24 +71,4 @@ writing-jump-to-nav-for-minimal-mistakes-nav:
         url: "guides/writing-jump-to-nav-for-minimal-mistakes#workaround"
       - title: "Automating the Process"
         url: "guides/writing-jump-to-nav-for-minimal-mistakes#automating-the-process"
-
-quick-python-from-cpp-nav:
-  - title: "Jump to"
-    children:
-      - title: "WIP"
-        url: "guides/quick-python-from-cpp#wip"
-      - title: "Python Files"
-        url: "guides/quick-python-from-cpp#python-files"
-      - title: "Printing"
-        url: "guides/quick-python-from-cpp#printing"
-      - title: "Variables"
-        url: "guides/quick-python-from-cpp#variables"
-      - title: "Conditionals"
-        url: "guides/quick-python-from-cpp#conditionals"
-      - title: "Standard Python File"
-        url: "guides/quick-python-from-cpp#standard-python-file"
-      - title: "Python Functions"
-        url: "guides/quick-python-from-cpp#python-functions"
-      - title: "Loops"
-        url: "guides/quick-python-from-cpp#loops"
 
