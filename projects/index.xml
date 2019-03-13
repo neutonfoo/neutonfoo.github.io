@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Neuton Foo</title>
-    <link>https://neutonfoo.github/projects/</link>
+    <link>https://neutonfoo.github.io/projects/</link>
     <description>Recent content in Projects on Neuton Foo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2019 21:05:48 -0700</lastBuildDate>
     
-	<atom:link href="https://neutonfoo.github/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neutonfoo.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Usc Class Checker</title>
-      <link>https://neutonfoo.github/projects/usc-class-checker/</link>
+      <link>https://neutonfoo.github.io/projects/usc-class-checker/</link>
       <pubDate>Tue, 12 Mar 2019 21:05:48 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/usc-class-checker/</guid>
+      <guid>https://neutonfoo.github.io/projects/usc-class-checker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pokemon Grid</title>
-      <link>https://neutonfoo.github/projects/pokemon-grid/</link>
+      <link>https://neutonfoo.github.io/projects/pokemon-grid/</link>
       <pubDate>Tue, 12 Mar 2019 21:05:25 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/pokemon-grid/</guid>
+      <guid>https://neutonfoo.github.io/projects/pokemon-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Draw Your Professors</title>
-      <link>https://neutonfoo.github/projects/draw-your-professors/</link>
+      <link>https://neutonfoo.github.io/projects/draw-your-professors/</link>
       <pubDate>Tue, 12 Mar 2019 21:03:32 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/draw-your-professors/</guid>
+      <guid>https://neutonfoo.github.io/projects/draw-your-professors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://neutonfoo.github/projects/c/</link>
+      <link>https://neutonfoo.github.io/projects/c/</link>
       <pubDate>Tue, 12 Mar 2019 20:55:41 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/c/</guid>
+      <guid>https://neutonfoo.github.io/projects/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bongo Player</title>
-      <link>https://neutonfoo.github/projects/bongo-player/</link>
+      <link>https://neutonfoo.github.io/projects/bongo-player/</link>
       <pubDate>Tue, 12 Mar 2019 20:43:28 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/bongo-player/</guid>
+      <guid>https://neutonfoo.github.io/projects/bongo-player/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ascii Art Generator</title>
-      <link>https://neutonfoo.github/projects/ascii-art-generator/</link>
+      <link>https://neutonfoo.github.io/projects/ascii-art-generator/</link>
       <pubDate>Tue, 12 Mar 2019 20:43:20 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/ascii-art-generator/</guid>
+      <guid>https://neutonfoo.github.io/projects/ascii-art-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wefood Mobile</title>
-      <link>https://neutonfoo.github/projects/wefood-mobile/</link>
+      <link>https://neutonfoo.github.io/projects/wefood-mobile/</link>
       <pubDate>Tue, 12 Mar 2019 17:33:58 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/wefood-mobile/</guid>
+      <guid>https://neutonfoo.github.io/projects/wefood-mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wefood</title>
-      <link>https://neutonfoo.github/projects/wefood/</link>
+      <link>https://neutonfoo.github.io/projects/wefood/</link>
       <pubDate>Tue, 12 Mar 2019 16:00:09 -0700</pubDate>
       
-      <guid>https://neutonfoo.github/projects/wefood/</guid>
+      <guid>https://neutonfoo.github.io/projects/wefood/</guid>
       <description></description>
     </item>
     
