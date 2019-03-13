@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>neutonfoo.github/projects/usc-class-checker/</loc>
+    <lastmod>2019-03-12T21:05:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/pokemon-grid/</loc>
+    <lastmod>2019-03-12T21:05:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/draw-your-professors/</loc>
+    <lastmod>2019-03-12T21:03:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/c/</loc>
+    <lastmod>2019-03-12T20:55:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/bongo-player/</loc>
+    <lastmod>2019-03-12T20:43:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/ascii-art-generator/</loc>
+    <lastmod>2019-03-12T20:43:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/contact/</loc>
+    <lastmod>2019-03-12T19:50:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/blog/test/</loc>
+    <lastmod>2019-03-12T18:55:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/blog/spring-break-2019/</loc>
+    <lastmod>2019-03-12T17:42:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/wefood-mobile/</loc>
+    <lastmod>2019-03-12T17:33:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/wefood/</loc>
+    <lastmod>2019-03-12T16:00:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/blog/materialize-to-hugo/</loc>
+    <lastmod>2019-03-12T15:28:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/blog/</loc>
+    <lastmod>2019-03-12T18:55:55-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/</loc>
+    <lastmod>2019-03-12T21:05:48-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/projects/</loc>
+    <lastmod>2019-03-12T21:05:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>neutonfoo.github/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
