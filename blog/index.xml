@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Neuton Foo</title>
-    <link>neutonfoo.github/blog/</link>
+    <link>https://neutonfoo.github/blog/</link>
     <description>Recent content in Blog on Neuton Foo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Mar 2019 18:55:55 -0700</lastBuildDate>
     
-	<atom:link href="neutonfoo.github/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neutonfoo.github/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>neutonfoo.github/blog/test/</link>
+      <link>https://neutonfoo.github/blog/test/</link>
       <pubDate>Tue, 12 Mar 2019 18:55:55 -0700</pubDate>
       
-      <guid>neutonfoo.github/blog/test/</guid>
+      <guid>https://neutonfoo.github/blog/test/</guid>
       <description>h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.
 &amp;copy; &amp;copy; &amp;reg; &amp;reg; &amp;trade; &amp;trade; (p) (P) +-
 test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
@@ -32,20 +32,20 @@ Blockquotes  Blockquotes can also be nested&amp;hellip; &amp;gt; &amp;hellip;by 
     
     <item>
       <title>Spring Break 2019</title>
-      <link>neutonfoo.github/blog/spring-break-2019/</link>
+      <link>https://neutonfoo.github/blog/spring-break-2019/</link>
       <pubDate>Tue, 12 Mar 2019 17:42:24 -0700</pubDate>
       
-      <guid>neutonfoo.github/blog/spring-break-2019/</guid>
+      <guid>https://neutonfoo.github/blog/spring-break-2019/</guid>
       <description>Hello this Spring Break I did this and that
 And also that other thing</description>
     </item>
     
     <item>
       <title>Materialize to Hugo</title>
-      <link>neutonfoo.github/blog/materialize-to-hugo/</link>
+      <link>https://neutonfoo.github/blog/materialize-to-hugo/</link>
       <pubDate>Tue, 12 Mar 2019 15:28:58 -0700</pubDate>
       
-      <guid>neutonfoo.github/blog/materialize-to-hugo/</guid>
+      <guid>https://neutonfoo.github/blog/materialize-to-hugo/</guid>
       <description>Wanted user defined color schemes so templated materailize. Commented out $materialize-red from color-variables.scss Moved these to main materailize.scss because does not prop.
 $primary-color: lighten({{ .Site.Params.styles.primaryColor }}, 20%); $secondary-color: color(&amp;quot;teal&amp;quot;, &amp;quot;lighten-1&amp;quot;) !default; $success-color: color(&amp;quot;green&amp;quot;, &amp;quot;base&amp;quot;) !default; $error-color: color(&amp;quot;red&amp;quot;, &amp;quot;base&amp;quot;) !default; $link-color: color(&amp;quot;light-blue&amp;quot;, &amp;quot;darken-1&amp;quot;) !default;  Also changed media queries to fit my navigtion bar Changed default font to Roboto Had to add
 text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;  </description>
