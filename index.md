@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://www.neutonfoo.com"
+redirect_to: "https://neutonfoo.com"
 ---
